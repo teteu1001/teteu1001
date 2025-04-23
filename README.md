@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @teteu1001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> 🧏‍♂️ 17 anos | Front-end Developer
+💻 Programo de HTML, CSS & JavaScript
+🎨 Transformando ideias em interfaces lindas
+📚 Sempre aprendendo
+🚀 Em busca de criar experiências incríveis na web
 
-<!---
-teteu1001/teteu1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if rodar:
+    print("Eu sou o mior 😎")
+else:
+    print("Deus me livre, deu erro de novo")
