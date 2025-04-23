@@ -1,5 +1,5 @@
 
-> 🧏‍♂️ 17 anos | Front-end Developer
+>  17 anos | Front-end Developer
 > 
 💻 Programo em HTML, CSS & JavaScript
 
